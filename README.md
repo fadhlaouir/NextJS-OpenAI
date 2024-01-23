@@ -28,10 +28,6 @@ This personal project goes beyond a traditional tutorial, serving as a hands-on 
 
 4. **Utilize the OpenAI API in Next.js applications:** Showcase the integration of OpenAI to enhance the application's functionality, from sending prompts to generating images.
 
-## Prerequisites
-
-- **Knowledge of React**
-
 ## Project Description
 
 This personal project represents a transformative journey, starting with the creation of a Next.js app. It explores routing, frontend design with TailwindCSS and DaisyUI, and backend mechanics such as server vs client components. The project demonstrates the ability to handle user interactions, implement CRUD operations, and validate data using the Zod library. The deployment on Vercel and the incorporation of APIs from OpenAI and Unsplash add a finishing touch to the project.
